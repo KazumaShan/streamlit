@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import numpy as np
 from io import StringIO
 #input voice
 import librosa
@@ -11,26 +10,6 @@ import subprocess
 from sklearn.model_selection import train_test_split
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import classification_report
-
-#------------------
-# Load the model at the start of the app
-model = None
-if os.path.exists('baby_cry_classifier.pkl'):
-    model = joblib.load('baby_cry_classifier.pkl')
-else:
-    st.warning("Model not found. Please train the model first.")
-
-st.title('Baby Crying Voice Detection')
-
-# Add retrain button
-if st.button('Retrain Model'):
-    # Start the training script as a subprocess
-    result = subprocess.run(['python', 'train_baby_cry_model.py'], capture_output=True, text=True)
-    st.text(result.stdout)
-    if result.returncode == 0:
-        st.success("Model retrained successfully.")
-    else:
-        st.error("Error during model retraining. Check logs for details.")
 
 #------------------
 
@@ -90,6 +69,8 @@ def rule_based_classification(features):
 
 #------------Store feedback in CSV------------------------------------------------
 def store_feedback(audio_file_name, initial_prediction, corrected_label, feedback_file='feedback.csv'):
+
+    
     if os.path.exists(feedback_file):
         feedback_data = pd.read_csv(feedback_file)
     else:
@@ -143,6 +124,7 @@ if uploaded_file is not None:
 
         if st.button('Submit Correction') and corrected_label != "Select a label":
             st.write(f"Stored corrected label: {corrected_label}")
+           
             store_feedback(audio_file_name, initial_prediction, corrected_label)
             st.success("Feedback saved.")
         elif corrected_label == "Select a label":
@@ -152,15 +134,7 @@ if uploaded_file is not None:
         store_feedback(audio_file_name, initial_prediction, initial_prediction)
         st.success("Prediction confirmed and saved.")
 
-# Add download button for feedback.csv
-if os.path.exists('feedback.csv'):
-    with open('feedback.csv', 'rb') as f:
-        st.download_button(
-            label="Download Feedback CSV",
-            data=f,
-            file_name='feedback.csv',
-            mime='text/csv'
-        )
+
 
 #-------------------------------------------
 

@@ -7,7 +7,7 @@ from openai import OpenAI
 
 #When deployUse streamlit Secret management
 #client = OpenAI(api_key = os.environ['OPENAI_API_KEY'])
-client = OpenAI(api_key = st.secrets['OPENAI_API_KEY'])
+client = OpenAI(api_key = os.environ['OPENAI_API_KEY'])
 
 #Story
 def story_gen(prompt):
