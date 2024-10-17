@@ -1,0 +1,188 @@
+audio_file,initial_prediction,corrected_label
+0489de37-661e-4349-bbe7-16d30d359a70.wav,Sleepy/Tired,Sleepy/Tired
+11f9d448-f49d-49c0-bd30-332df549dd2a.wav,Sleepy/Tired,Eair (Lower gas)
+5028a15b-d69b-4d5d-abbd-e32cad6ed49f.wav,Sleepy/Tired,Sleepy/Tired
+27cdc436-f6f0-44d6-9eba-3f6fb41a873e.wav,Sleepy/Tired,Sleepy/Tired
+605ad889-3ec2-4264-8f88-8b24610d01d9.wav,Sleepy/Tired,Heh (Discomfort)
+d6aae1b2-d509-4351-8dd4-707774443e14.wav,Sleepy/Tired,Sleepy/Tired
+d3893e1b-47aa-4060-a7dc-e221339fcb7d.wav,Sleepy/Tired,Sleepy/Tired
+d78260e7-45a9-44a5-84d0-13fe3cc236b3.wav,Lower gas,Lower gas
+b3c9575f-1cf6-4a50-9518-ef6a0f25c9a4.wav,Sleepy/Tired,Sleepy/Tired
+0598676e-eafb-4654-b4e2-52b9f869bbd1.wav,Discomfort,Discomfort
+64abc731-e337-457e-a415-082df1729342.wav,Sleepy/Tired,Sleepy/Tired
+2383f53e-62be-4396-bfa4-76b7a17bb13d.wav,Sleepy/Tired,Sleepy/Tired
+b55b6229-7057-4b87-8673-7e054b091b51.wav,Sleepy/Tired,Sleepy/Tired
+eaf7328a-cc6d-4184-a8d4-957dda1d528e.wav,Sleepy/Tired,Sleepy/Tired
+36747120-5b17-4b0d-8f32-56d94ad9519b.wav,Sleepy/Tired,Sleepy/Tired
+791241b9-8ff5-4bcc-a91f-ecf7d9e5d9ea.wav,Sleepy/Tired,Sleepy/Tired
+a38be0d1-edc9-4f1d-80e2-23aa73d316eb.wav,"Hungry (High pitch, longer duration)","Hungry (High pitch, longer duration)"
+73d7b491-b675-410d-90f1-62cb8b0818b3.wav,"Hungry (High pitch, longer duration)","Hungry (High pitch, longer duration)"
+8961ee00-1f94-4f9b-80ca-75a058be4d0b.wav,"Hungry (High pitch, longer duration)","Hungry (High pitch, longer duration)"
+688fb83d-7a89-4741-81c9-57a2f7cae5a5.wav,"Hungry (High pitch, longer duration)","Hungry (High pitch, longer duration)"
+5c930504-20bd-4652-9f08-4c997eb77b3b.wav,"Hungry (High pitch, longer duration)","Hungry (High pitch, longer duration)"
+0e6085cd-76d0-41ea-8a4e-28414213c591.wav,Unknown,Unknown
+6f9859ae-1fc4-4122-9457-0bcd41f56eec.wav,Unknown,Unknown
+8ddd40fe-1668-4b97-b17f-90d6643aa448.wav,Unknown,Unknown
+2feebd9c-5472-4c8f-9439-e9eefcd8b2cb.wav,Unknown,Unknown
+b2b71cd5-ddd8-4697-85b6-be198218a78c.wav,Unknown,Unknown
+36ca4b76-988d-412c-b2b4-683fb0f7f956.wav,"Lower gas (Low pitch, extended cry)","Lower gas (Low pitch, extended cry)"
+68fda250-fe6c-455c-93f0-6ec7a96fcffb.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+9d95c371-ec76-44a7-b952-218b01b3aa87.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+ccbf8ae2-29fc-4f5b-b6bf-be61eee6d25c.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+4528a785-c660-4720-a18e-30e075250ae1.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+c23e8d80-87d0-466b-acb6-183c62903908.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+61b8d25c-452b-4175-9f3d-992508b0e6ab.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+413f57a3-7db2-4b86-b481-d7df09e13bff.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+65bfb669-2cad-4c16-bc30-373dead8646c.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+b307ccc6-687b-474d-a4b7-5005732be276.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+ee2f69b1-b39d-4fac-b8f8-b6cbeaa0c8e2.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+8bf769ae-9a6b-460d-8325-75e66a2a4c05.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+910373e6-ea0d-4a0d-9823-bb01436677bf.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+72355686-158e-41a3-b4fa-081762a016d7.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+77384d11-d5ba-49ff-afc4-172c76a4645d.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+02459ab6-010e-4803-881c-cfe7626350ae.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+089388ed-d318-483d-8ceb-3ab3610ba874.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+98b8d20f-258c-4572-ab48-752b862e46ea.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+9dab7c98-6cda-43cd-b2f3-982d95b8d477.wav,Unknown,Unknown
+58c67d4d-3ac4-4da2-8043-d0826744064c.wav,Unknown,Unknown
+43e87f87-afd7-4aad-af57-bb122f75a929.wav,Unknown,Unknown
+98427756-aedd-474c-a9cf-e4ee75da42dd.wav,Unknown,Unknown
+8d61352e-6bd2-4478-a813-8e7196135dc8.wav,Unknown,Unknown
+8d79ea1a-59e6-45c2-ba45-07e6c3ab2edb.wav,Unknown,Unknown
+b050f5b9-b1bd-4ee0-898e-c13deae5fb82.wav,Unknown,Unknown
+49e0c82b-fe2b-483c-8054-d56068dc97dc.wav,Unknown,Unknown
+61c398a1-b48a-46e1-938a-75d74ced6423.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+1877e36d-5962-4fae-a32c-27e02294a970.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+cffed34c-45d9-4685-a18b-91eefc58441b.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+8f84486e-b97f-48a5-85b0-abf2ce2d1d8d.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+66584f03-4123-4f5f-9135-099fc115ad27.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+b4bfbfe9-f370-47c5-b43d-86f7745138ed.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+430870b7-9518-467b-a451-c4e19641abf6.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+6824cb91-a70f-4dcf-ad8c-c7f518a6395f.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+87f3e0be-6517-4650-8114-e2d13204ffa2.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+8c84d7c2-b653-4914-b857-0f5801e6ea07.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+9dde4cc9-bd42-433b-bc0f-d17dda50f287.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+706ed519-968a-4013-a481-fe5ce0f3fb8e.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+f2877faf-5a14-4fb4-971c-29610ade6a07.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+4f538b08-909f-475b-934b-b36250543847.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+661837ce-0574-490b-a101-a87ffe93cb99.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+15b111f4-79f0-4455-8089-028bf63eb97b.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+01c878cd-3765-4df0-9738-b953ea8ffbf2.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+d82e9744-a18f-44f8-a5c7-fb57bc66d24b.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+a73dbba0-c696-4ec6-a7b6-9e780d2452fc.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+de0c5f84-37f4-4723-bd65-4252bd42f78e.wav,Unknown,Unknown
+a900f83a-1f9e-451f-8962-56557eb5a18f.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+d275e35c-2722-41c1-9972-abf23c4297b4.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+70dd2659-506f-4cd3-a69e-5e224a5aaa73.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+982fa9f3-ee8f-413d-b3bb-8c1104552bd5.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+248a0221-9ecb-439b-8c94-85a717571cef.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+92e5c864-0967-42a9-9123-3da992eeb327.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+fc6b9a2d-0871-4689-9ce4-a8658cd316ff.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+045d7a80-f885-4283-8878-5e589ba97dbe.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+0a5dbecb-2c79-48c2-9e7d-b7f6906b14f9.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+88d99e01-14ab-470f-90f8-736674e5bc65.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+04835ab5-7e0d-444a-b854-d33f73dbb047.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+b4bda21e-3a87-4b8d-8193-bea882606b28.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+d56932ea-2af2-444d-b7f8-619a4426408b.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+9f84b8d6-662d-4f73-80f0-ad8437e77818.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+7f4a2d66-2c56-4ac0-8573-40e43d5d6bdb.wav,Unknown,Unknown
+cd295e96-6d9b-44de-b746-d3114dbc9ffa.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+56ba5d45-3a10-40a6-9be2-c56e594e5c70.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+21c95d26-292c-4585-8175-670ca2b1758e.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+326d5315-b86c-4dc5-aab4-ffe01a5a8a28.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+0641218d-fcc6-400c-a15f-e21271da7fbf.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+133d0e06-79ee-4b17-8401-d0883feacb38.wav,Unknown,Unknown
+e5438dff-cee2-478a-b34a-54a524f4e5b5.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+8fc51217-ea6c-4beb-9835-196ddf1cbeb9.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+78bc502a-a1df-4173-9577-2fa7f79210ea.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+2a9a61ba-3d22-4284-836c-9ab85dffebc4.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+958a9ffd-3af5-48f7-af84-35fcf46e8dc2.wav,"Neh (High pitch, short duration)","Neh (High pitch, short duration)"
+1f0be1a6-ff10-4aa3-a6b7-40abc8a47ca4.wav,Unknown,Unknown
+2b8a1c67-17d9-4363-951c-f4a6941db787.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+b9c7ac7e-47a4-42bb-95a5-33879428aa79.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+dde6faae-028b-4346-8777-c14e1e3a383e.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+94f68d5a-7945-4e01-a872-846a95369cc7.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+e6184dfc-f43e-4870-8f44-342481f690c6.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+1aed18d8-3432-4759-82dd-fe9720d197ec.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+e99c1f5d-e532-4b11-95eb-ad8d5ffd43ee.wav,"Eair (Low pitch, very long duration, low frequency)","Eair (Low pitch, very long duration, low frequency)"
+93c0678d-8f46-498c-ad45-d6a75e09d3c8.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+912c3467-e6fd-4d74-9bda-9ddf35f28486.wav,"Owh (High pitch, long duration)","Owh (High pitch, long duration)"
+847d6027-63ef-4263-a3b5-b0078a74453a.wav,Sleepy/Tired,Sleepy/Tired
+3d1d833b-2fae-486c-a9e1-8b40589f6870.wav,Sleepy/Tired,Sleepy/Tired
+1848c806-c40b-449d-bc6b-d0b2866d0cff.wav,Sleepy/Tired,Sleepy/Tired
+5887fea9-ee79-4ca9-8944-1d868656ea8e.wav,Sleepy/Tired,Sleepy/Tired
+2788d405-22f9-4227-978b-7d25be31bcb4.wav,Sleepy/Tired,Sleepy/Tired
+4f9958b3-3ac3-43cd-bab4-a650301e23cf.wav,Lower gas,Lower gas
+17f67ec9-a5bd-4af8-bf1b-4f828b61f582.wav,Sleepy/Tired,Sleepy/Tired
+f67ef7a7-9f65-446c-8876-a75d2eb8a3a8.wav,Sleepy/Tired,Sleepy/Tired
+eef7dbdc-8eda-4856-aab7-8962a0339dba.wav,Lower gas,Lower gas
+61bf8ef5-09ae-4d05-9780-0e19b2428287.wav,Sleepy/Tired,Sleepy/Tired
+2cc331ec-bc78-4896-8cb4-80d57938a5e0.wav,Sleepy/Tired,Sleepy/Tired
+b0c287a8-8171-45d8-ab99-75afd6840d67.wav,Sleepy/Tired,Sleepy/Tired
+9d4131cc-5e7d-4f59-93e9-ee289a54c78b.wav,Sleepy/Tired,Sleepy/Tired
+c03b85f7-8f6b-4ba6-b3ce-f507fafe08a1.wav,Sleepy/Tired,Sleepy/Tired
+8af575d2-c0e7-43d3-a93b-d51413db526a.wav,Sleepy/Tired,Sleepy/Tired
+7159fff5-166c-4479-84bc-bf0515e50626.wav,Sleepy/Tired,Sleepy/Tired
+ee12a24a-6d0f-4f7c-a778-189609f1b9cb.wav,Sleepy/Tired,Sleepy/Tired
+cd733ec4-caa3-4d3d-9340-ad5b7f6e12ef.wav,Sleepy/Tired,Sleepy/Tired
+bb5ed063-877b-4316-8ef4-405dff1feb15.wav,Sleepy/Tired,Sleepy/Tired
+285712a7-64db-43d6-a749-a29ab0386e11.wav,Hungry,Hungry
+6fe64f44-f32a-45e4-9d9a-c74c2095ad3b.wav,Hungry,Hungry
+90c20478-13e5-4d0a-a426-53a7496bf158.wav,Hungry,Hungry
+efc8989e-b6a7-4f4a-9809-a844a44ebdb2.wav,Hungry,Hungry
+0e5c1f18-5f8e-4f36-87b9-5610ae53864e.wav,Hungry,Hungry
+5d3e171a-dee5-4484-9563-f3199b78f430.wav,Lower gas,Lower gas
+b1c3bc3d-24c8-4ad1-bfc1-9186674f1cfa.wav,Sleepy/Tired,Sleepy/Tired
+bd09b4ac-a41c-49c8-898f-d6b30b25d5e2.wav,Sleepy/Tired,Sleepy/Tired
+36a17d3e-d9f4-4e26-86c3-40b7eafe933a.wav,Sleepy/Tired,Sleepy/Tired
+cc67c9a3-85d4-45f0-b1a9-eda36da9802f.wav,Lower gas,Lower gas
+fedf29a0-48f9-4b3a-96a8-d83486b603b8.wav,Sleepy/Tired,Sleepy/Tired
+387f00e9-d47d-4b1d-9a18-4220dcf14f1f.wav,Sleepy/Tired,Sleepy/Tired
+21c2a660-dfec-4ca8-b6ba-69a67dd7b71a.wav,Sleepy/Tired,Sleepy/Tired
+e26c3fc1-3165-438c-8a2a-d86208ac76ad.wav,Hungry,Hungry
+91914729-88d1-48a0-b5dd-1c6f1644ee89.wav,Hungry,Hungry
+9a18bdc8-78fd-414d-86fd-c5839e6ddb05.wav,Hungry,Hungry
+81b67530-73ad-4fb8-b86c-5450be1b69ce.wav,Sleepy/Tired,Sleepy/Tired
+e8e1bebc-e751-4820-ae78-3a954de616ea.wav,Sleepy/Tired,Sleepy/Tired
+90be1bc3-1561-42ff-b370-afe854fbec35.wav,Sleepy/Tired,Sleepy/Tired
+3ac5b075-127f-4e45-a0dc-179277f1ba79.wav,Lower gas,Lower gas
+efd9d0b3-b80c-4a47-8c31-ca29666aa38c.wav,Hungry,Hungry
+d2209df0-904a-46ed-89b6-4bdb31042a33.wav,Hungry,Hungry
+a25dd15b-889e-43a3-bc50-77694ed138f2.wav,Sleepy/Tired,Sleepy/Tired
+959b59f2-2c63-4d21-b621-5c31c31e8203.wav,Sleepy/Tired,Sleepy/Tired
+b12fe7d7-5982-4537-b751-12846fe0a869.wav,Hungry,Hungry
+aceb61b5-845b-44a6-9bd6-20acb1732018.wav,Unknown,Unknown
+8d30d3c7-2c25-4d85-8269-5de844ec0695.wav,Unknown,Unknown
+7e5573a1-6275-44e7-95e8-95ee3a647785.wav,Burp,Burp
+e95526b8-d28f-4ea0-9b0b-e9ae28047cf8.wav,Burp,Burp
+97f077fd-48f8-4ddc-a57d-d0f868d093ce.wav,Hungry,Hungry
+0f7c5a75-f8d1-4b2f-9eb8-1946145f2fd2.wav,Burp,Burp
+3a42cce2-37a1-463a-8aa2-0ca444e02a34.wav,Burp,Burp
+4ce8e587-4ad3-4402-adc0-863508417936.wav,Hungry,Hungry
+3993cec9-d3ad-4d1b-a397-8d9dcf5328ee.wav,Sleepy/Tired,Sleepy/Tired
+f191c609-76ac-483f-9078-aba63609ee5a.wav,Hungry,Hungry
+7a2ee232-3418-4b99-b40d-3aec5923d62c.wav,Sleepy/Tired,Sleepy/Tired
+be3f2681-4ae8-409b-8923-1ae6bad023b6.wav,Hungry,Hungry
+57980ff6-3252-4565-8290-f3641f0bb813.wav,Hungry,Hungry
+e43577c1-e5ef-469e-b07c-9bc5013f50ad.wav,Lower gas,Lower gas
+b7649983-af87-47cd-a475-a32f041c529b.wav,Sleepy/Tired,Sleepy/Tired
+484a485f-232c-4ecb-ba8a-f8fd9aad12d0.wav,Sleepy/Tired,Sleepy/Tired
+9c9966fd-ecaa-4625-b3dc-e19153376f9c.wav,Hungry,Hungry
+d6725a01-6152-423b-8843-916bb7594f00.wav,Sleepy/Tired,Sleepy/Tired
+0b1a7618-634a-447d-8752-57c368c18967.wav,Sleepy/Tired,Sleepy/Tired
+297ee908-6d15-4861-be05-2595ee4a0293.wav,Sleepy/Tired,Sleepy/Tired
+af8e5806-d772-469e-ad5b-0526f7a473ab.wav,Sleepy/Tired,Sleepy/Tired
+f39ad84f-ce67-4edf-ba80-6c025ab29dc5.wav,Hungry,Hungry
+25e57bb6-36be-47a0-8312-b18c61d0cc3a.wav,Hungry,Hungry
+8062fbc0-af9e-4d29-a984-7d726e0e6106.wav,Lower gas,Lower gas
+3939c05a-f662-4a76-b897-03af7b86ab57.wav,Sleepy/Tired,Sleepy/Tired
+a3066d3e-971d-4979-a3e3-c054c7c651fd.wav,Sleepy/Tired,Sleepy/Tired
+3226da66-4a9c-46a1-8a2c-cb0a7099bd49.wav,Sleepy/Tired,Sleepy/Tired
+bfd5974c-767d-4686-aea4-e50904e01ecb.wav,Hungry,Hungry
+3a7666b4-4a52-4583-b0e8-c8e50707ef04.wav,Lower gas,Lower gas
+0b03ceef-995d-4d51-88ab-e0920a1afa24.wav,Lower gas,Lower gas
+b3ad2e16-5d8c-4641-85c0-5449dc658598.wav,Sleepy/Tired,Sleepy/Tired
+dc90cca1-d4ba-4e15-8e14-b3d54fa79ac0.wav,Lower gas,Lower gas
+866b57fa-27b1-4bab-b65e-0392f45a19e0.wav,Lower gas,Eair (Lower gas)
+274d8c1c-e56b-40a1-a3ef-aadbea179a97.wav,Hungry,Hungry
+9531bb9e-5973-480b-a5a5-f1bf818d153d.wav,Hungry,Eh (Burp)
